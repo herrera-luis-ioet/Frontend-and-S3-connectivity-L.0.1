@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/Frontend-and-S3-connectivity-L.0.1/image-upload-gallery"
+}

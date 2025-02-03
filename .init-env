@@ -1,0 +1,14 @@
+# Environment initialization status
+NODE_VERSION=18.19.1
+NPM_VERSION=9.2.0
+GIT_VERSION=2.43.0
+
+# Required dependencies verified
+REACT_VERSION=17.0.2
+MATERIAL_UI_VERSION=5.0.0
+
+# Project configuration
+PROJECT_NAME=Frontend-and-S3-connectivity
+PROJECT_VERSION=L.0.1
+RUNTIME_ENV=Node.js
+AWS_INTEGRATION=true
